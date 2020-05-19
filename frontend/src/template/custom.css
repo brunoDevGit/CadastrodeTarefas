@@ -1,0 +1,33 @@
+.menu{
+
+    background-color:#5dbedb ;
+}
+a {
+    color:rgb(59, 56, 56);  
+}
+
+.btn {
+    margin-right: 2px;
+}
+
+.markedAsDone {
+    text-decoration: line-through;
+    color: #777;
+}
+
+.tableActions {
+    width: 105px;
+}
+
+.todoForm {
+    padding-bottom: 60px;
+    
+}
+body{
+    background-color: rgb(212, 223, 246);
+}
+.todo{
+    background-color: #7ccde6;
+    color: rgb(59, 56, 56);  
+    
+    }
