@@ -3,12 +3,12 @@ import 'modules/font-awesome/css/font-awesome.min.css'
 
 import React from 'react'
 import Menu from '../template/menu'
-import  Router  from './routes'
+import Router from './routes'
 
 export default props => (
     <div className="container">
-        <Menu/>
-        <Router></Router>
+        <Menu />
+        <Router/>
 
     </div>
 )
