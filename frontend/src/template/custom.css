@@ -1,9 +1,9 @@
 .menu{
 
-    background-color:#5dbedb ;
+    background-color:#41a041;
 }
 a {
-    color:rgb(59, 56, 56);  
+    color:#fff;  
 }
 
 .btn {
@@ -24,10 +24,5 @@ a {
     
 }
 body{
-    background-color: rgb(212, 223, 246);
+    background-color: rgb(242, 247, 241);
 }
-.todo{
-    background-color: #7ccde6;
-    color: rgb(59, 56, 56);  
-    
-    }
